@@ -37,6 +37,7 @@ body {
 .input-area {
   height: 30px;
   display: flex;
+  align-items: center;
   margin: 10px;
   padding: 5px 10px;
   background-color: #c6e5d9;
